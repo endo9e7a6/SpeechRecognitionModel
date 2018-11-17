@@ -1,4 +1,4 @@
-from numToText import numero_a_letras
+from Text_score.numToText import numero_a_letras
 
 def levenshtein(sText1, sText2):
     #### Returns levenshtein distance between two strings

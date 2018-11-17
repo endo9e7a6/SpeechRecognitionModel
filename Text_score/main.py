@@ -1,5 +1,5 @@
-from streamComparator import stringSimilarity as sS
-from wordComparator import wordSimilarity as wS
+from Text_score.streamComparator import stringSimilarity as sS
+from Text_score.wordComparator import wordSimilarity as wS
 
 man_trans_filename = "08_territorial-transcripcion_manual"
 aut_trans_filename = "09_cantabria_digi-transcripcion_autom"
